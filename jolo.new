@@ -365,7 +365,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI Lampung
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAHH",TVRI Nasional
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI Nasional
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI Papua
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIpapua)/Stream(03)/index.m3u8

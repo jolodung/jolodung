@@ -299,60 +299,92 @@ https://teveMobile.us.to/sc/start.m3u8?id=7946
 http://210.210.155.35/session/4c182778-8e4e-11eb-8016-b82a72d63267/qwr9ew/s/s10/index10.m3u8
 
 
+===============================================tambaham indo===========================================
 
 
-============liga 1 bri==================
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9RlYvt2RE5-8OwYzYCRqOgHaDX&pid=Api&P=0&w=410&h=186" group-title="ID",TVRI - Vidio
+http://group2-swiftservesd-1.dens.tv/s/s11/02.m3u8?
 
 
-#EXTINF:0 tvg-name="indosiar" tvg-logo="https://i.ibb.co/m8bVM26/indosiar-FIX.png" group-title="liga 1",liga 1
-http://tvn.x10.bz/xchannel/master.m3u8
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2018/04/Dash_logo_blue.png" group-title="ID",DASH
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useeprime_small1.png?v=2.0.0.13" group-title="ID",USEE PRIME
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/05.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="ID",RUANG TAMPIL
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/05.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ID",MTA TV 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/05.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/id-mta-tv-3706.jpg" group-title="ID",Jakarta Globe
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/976/161/png-clipart-china-central-television-cctv-4-cgtn-russian-cctv-channels-television-channel-others-miscellaneous-television.png" group-title="ID",CCTV 4 - UseeTV
+http://108.136.37.52/m3u8/uc_CCTV4.m3u8
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/t6J9TQ_jLJtnoz_-s1yxGD7nKc_1fSx7jPpjPsYQuAtNu1MPk9LeAv2VjFCkWUZJu7c=w300" group-title="ID",YTN News - Dailymotion
+http://108.136.37.52/m3u8/dm_YTN_News.m3u8
+#EXTINF:-1 tvg-logo="https://www.team-mediaportal.com/media/com_mtree/images/listings/o/2440.png" group-title="ID",JPN
+http://122.248.43.138:1935/ch6/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9RlYvt2RE5-8OwYzYCRqOgHaDX&pid=Api&P=0&w=410&h=186" group-title="ID",TVRI - Vidio
+http://group2-swiftservesd-1.dens.tv/s/s11/02.m3u8?
 
 
+===============================================TVRI DAERAH===========================================
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",Bandung TV
+http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI NASIONAL2
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI DKI JAKARTA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI WORLD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI SPORT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI 3 Budaya
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI Aceh
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI Bali
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI Bengkulu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI Jawa Barat
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI Jambi
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI Jawa Tengah
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI Jawa Timur
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI Kalbar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalbar)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI Kalsel
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI Kalteng
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI Kaltim
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI Lampung
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAHH",TVRI Nasional
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI Papua
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIpapua)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI Riau
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI Sulsel Makasar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI Sulteng Palu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsultengpalu)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI Sulut Manado
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",TVRI Sumatra Selatan
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",JAMBI
+http://122.248.43.138:1935/ch23/myStream/chunklist_w88244984.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI DAERAH",JEK
+http://122.248.43.138:1935/ch14/myStream/live.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/tvposter/useeSport.png" group-title="Liga 1", UseeSports 1 
-http://goldentv.tech:25461/rachman/rachman/22973
-
-
-
-
-
-
-=======================================lokal bakcup===========================
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Sdj1Y5/rcti-fix.png" group-title="Lokal Backup",RCTI
-https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SP5XdyY/mnctv-fix.png" group-title="Lokal Backup",MNC TV
-https://rcti-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kqt8Tzy/gtvfix.png" group-title="Lokal Backup",GTV
-https://rcti-linier.rctiplus.id/live/eds/GTV2021/live_fta/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CsF6yrX/inewsfix.png" group-title="Lokal Backup",INEWS
-https://rcti-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="Lokal Backup" tvg-logo="https://i.ibb.co/j86kRWK/transtvfix.png",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Lokal Backup" tvg-logo="https://i.ibb.co/8B8tY5z/800px-Trans-7-2013-svg.png",Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 
 ===============================================MALAYSIA===========================================
@@ -782,13 +814,6 @@ http://iptv12k.com:35461/8022022301/468985/3768
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNDqSpu9cYBhujfm_vRAUtEDTMVFMTafVGRQ&usqp=CAU" group-title="Sports", Bein Sports Premium 3
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8?
-
-
-
 
 
 
@@ -855,13 +880,6 @@ http://iptv.tvmalaysia.cc:80/989651/989651/9020
 #EXTINF:-1 tvg-id="astrosupersport.my4" tvg-name="ASTRO SUPERSPORT HD4" tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="Sports",ASTRO SUPERSPORT 4
 http://iptv.tvmalaysia.cc:80/989651/989651/9026
 
-
-#EXTINF:-1 tvg-id="astrosupersport.my4" tvg-name="ASTRO SUPERSPORT 3 " tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="Sports",ASTRO SUPERSPORT 3b
-http://iptv12k.com:35461/8022022301/468985/5221
-
-
-#EXTINF:-1 tvg-id="astrosupersport.my4" tvg-name="ASTRO SUPERSPORT 3c " tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="Sports",ASTRO SUPERSPORT 3c
-http://iptv12k.com:35461/8022022301/468985/5220
 
 
 #EXTINF:-1 tvg-id="astrosupersport.my5" tvg-name="ASTRO SUPERSPORT5" tvg-logo="https://i.postimg.cc/s25wGV7H/astrosp5.png" group-title="Sports",ASTRO SUPERSPORT 5
@@ -1005,21 +1023,55 @@ http://210.210.155.35/session/ae997d02-de49-11eb-aa6b-b82a72d63267/uq2663/h/h22/
 https://edgesport-samsungus.amagi.tv/playlist720p.m3u8
 
 
-
-#EXTINF:-1 tvg-id="astrosupersport.my4" tvg-name="bein sports mu " tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="Sports",ASTRO SUPERSPORT 3c
-#EXTINF:-1,SG-BeIN Sports HD
-http://iptv12k.com:35461/8022022301/468985/227
+========================================sports backup=========================================================
 
 
-#EXTINF:-1 tvg-id="astrosupersport.my4" tvg-name="bein sports mu " tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="Sports",ASTRO SUPERSPORT 3c
-#EXTINF:-1,SG-beIN Sports Max 2 HD BEIN SPORTS 13
-http://iptv12k.com:35461/8022022301/468985/224
+                   
+######################### SPORTS #################################
 
 
-#EXTINF:-1 tvg-id="astrosupersport.my4" tvg-name="bein sports mu " tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="Sports",ASTRO SUPERSPORT 3c
-#EXTINF:-1,SG-beIN Sports 2 HD BEIN SPORTS 13
-#EXTINF:-1,[AU] beIN Sports 2 AU
-http://iptv12k.com:35461/8022022301/468985/3309
+
+
+#EXTINF:-1tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/7176cb92ce7b1f9b40b0.png" group-title="SPORT",TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useeprime_small1.png?v=2.0.0.13" group-title="SPORT",Usee Prime
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WWRM3bcWOeo/YGxwcmx7j3I/AAAAAAAABbA/r4lLXLW1ZzEJpUYEUBEengCPN1ytxOm9ACLcBGAsYHQ/s1080/rtm%2B7th%2Blogo%2B2021.png" group-title="SPORT", RTM SUKAN 
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/twICXlaPWmYUylFizKmybUdtjMI=/172x96/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="SPORT",Champion Tv1
+http://tvn.x10.bz/xchannel/master-6.m3u8?token=bukuantv
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/NFKNFBrOgTZmQDImFBc3OAmMwuk=/172x96/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="SPORT",Champion Tv2
+http://tvn.x10.bz/xchannel/master-7.m3u8?token=bukuantv
+
+
+http://tvn.x10.bz/xchannel/master-17.m3u8?token=bukuantv
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.aqp0C7kD4jtAIeoGuv06TAHaEF&pid=Api&P=0&w=366&h=202"group-title="SPORT",Usee Sport1
+https://indositusx.com/link/use.m3u8?id=useesport
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.aqp0C7kD4jtAIeoGuv06TAHaEF&pid=Api&P=0&w=366&h=202"group-title="SPORT",Usee Sport2
+https://indositusx.com/link/use.m3u8?id=useesports2
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.-jP-B4z1f_8_vihkYC8c-gHaF1&pid=Api&P=0&w=218&h=172"group-title="SPORT",Spo tV
+https://indositusx.com/link/use.m3u8?id=spotv
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.-jP-B4z1f_8_vihkYC8c-gHaF1&pid=Api&P=0&w=218&h=172"group-title="SPORT",Spo tV2
+https://indositusx.com/link/use.m3u8?id=spotv2
+
+
+
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png" group-title="SPORT",Astro Supersport1
+http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59220.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png" group-title="SPORT",Astro Supersport2
+http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59219.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png" group-title="SPORT",Astro Supersport 3
+http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59218.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png" group-title="SPORT",Astro Supersport 4 
+http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59217.m3u8
+#EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20151119/289407LOGO?max=800" group-title="SPORT",Bein Sport 1
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20151119/289407LOGO?max=800" group-title="SPORT",Bein sport 2
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20151119/289407LOGO?max=800" group-title="SPORT",Bein sport 3
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+
 
 
 

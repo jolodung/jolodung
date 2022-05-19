@@ -772,11 +772,7 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Sports" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png",BeIn Sports 1
-https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
-
-
-
-
+http://1tv1.net:8080/aziz10/123456/15563
 
 
 
@@ -793,17 +789,30 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="beinsport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScVIchK2eAq0HD_lMjld16YYmyQ7F3zxTEmw&usqp=CAU" group-title="Sports", Bein Sports Premium 1
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8?
-http://iptv12k.com:35461/8022022301/468985/3769
-
+#EXTINF:-1 tvg-id="beinsport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScVIchK2eAq0HD_lMjld16YYmyQ7F3zxTEmw&usqp=CAU" group-title="Sports", Bein Sports Premium 3
+http://1tv1.net:8080/aziz10/123456/15561
 
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzB97GTt-J8qQ-IGpWkapZE8UwjF0MdcHbAA&usqp=CAU" group-title="Sports", Bein Sports Premium 2
-http://iptv12k.com:35461/8022022301/468985/3768
+http://1tv1.net:8080/aziz10/123456/15562
+
+#EXTINF:-1 tvg-ID="EN-HD4 English" tvg-name="AR: beIN 1 HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="Sports",AR: beIN 1 HD
+http://1tv1.net:8080/aziz10/123456/15560
+#EXTINF:-1 tvg-ID="EN-HD5 English" tvg-name="AR: beIN 2 HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="Sports",AR: beIN 2 HD
+http://1tv1.net:8080/aziz10/123456/15559
+#EXTINF:-1 tvg-ID="EN-HD6 English" tvg-name="AR: beIN 3 HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="Sports",AR: beIN 3 HD
+http://1tv1.net:8080/aziz10/123456/15558
+#EXTINF:-1 tvg-ID="EN-HD7 English" tvg-name="AR: beIN 4 HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="Sports",AR: beIN 4 HD
+http://1tv1.net:8080/aziz10/123456/15557
+#EXTINF:-1 tvg-ID="EN-HD8 English" tvg-name="AR: beIN 5 HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="Sports",AR: beIN 5 HD
+http://1tv1.net:8080/aziz10/123456/15556
+#EXTINF:-1 tvg-ID="EN-HD9 English" tvg-name="AR: beIN 6 HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="Sports",AR: beIN 6 HD
+http://1tv1.net:8080/aziz10/123456/15555
+#EXTINF:-1 tvg-ID="EN-OlympicChannel English" tvg-name="AR: beIN 7 HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="Sports",AR: beIN 7 HD
+http://1tv1.net:8080/aziz10/123456/15720
 
 
 

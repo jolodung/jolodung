@@ -1,298 +1,334 @@
-=======LOKAL========================================== =============================== LOKAL ===================== =====
+#EXTM3U
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",RCTI RIE
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016574 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",INDOSIAR VIDEOHD RIE
+http://tv.zonanime.my.id/vidio/indosiar.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",INDOSIAR HD RIE 
+http://mohtarif.online:5555/hashim111/hashim111/39427?token=HxpcVkcJFg4RUQBaBFcLVQ5XBA8CW1NXUAdTUAUCBlBdDwQPAFEFVQJAT0BDEUtRWQhtXlYbDwFYB1MBHRNAFwFKa15QQw4WAFZRWgBHFRZMDF9SEAMEBFcGUQQECAdVSBpEXlBDDlpGDg9OEgBBQF0XXFZeZlFXF1oCUxMLWxEIVBgVWw9rUFYPAgxURwMWCUceFVtKRRBbXRRaXR0XBg1MRlZABBYOXRcPDhxHWltNC0ZFSxsPECh3QxoTVE0QAVZHXlsPFg4RFhBAHEdQR2cXV0RGS1BTDFYTFAsTBUZIGllWTD5XW10MBgFEDFZaS0cIFQMbGRAMXA9fRV5HOxRRUBUOD0FYXx8= |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",INDOSIAR 2 RIE 
+http://210.210.155.35/session/94ee6302-7ee3-11ea-9585-c81f66f89318/qwr9ew/s/s04/02.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",GTV HD RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/19 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",GTV 1 RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/19 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TV ONE RIE 
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",KOMPAS TV HD RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/12 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",KOMPAS 1 RIE
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8 |User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/m8bVM26/indosiar-FIX.png" group-title="Lokal ",INDOSIAR HD
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",KOMPAS 2 RIE
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",MNC TV RIE
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016571 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",SCTV HD RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/01 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",SCTV RIE
+http://210.210.155.35/session/9940309a-62c0-11eb-964d-912c89b3e225/qwr9ew/s/s03/02.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",SCTV 2 RIE
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",INEWS RIE
+http://103.120.207.17:25461/live/gremlins59/8898/1336.ts?token=TBpYVERRRFhGAldRVA8PBQsEUAFSV1dUUw9VAgIFDwEFWlENBgEHAwUTGRdBTERRWFhuUAVGDgFRCwEeEkJFUUVnWVEVA0RVUgkCFx4aQl1UUBMDUFICBVIKAQMJABoWR1FUFw0bV1ddAQMXHhpTTE1QQ1cACGtUB05eUVUVDFpCVFwZFVYIPQBUWFRcXBQOGwUTFUMNR0BAAllHXFsaFlVRREdWTQNAXhMBBwEIFBgbVl5MDxBGSUACFXt0FRoWUkBEUFlKDw0KEw8XRksUGBtcQmYTAUdEEF1WX1VFFA4VCBIZFVQHGjtSWltcXVVAUFpfSkNeFgJAFBVfX1lfQFhKb0VeXURYRgUHDQMLFEk= |User-Agent=Lavf/56.15.102
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGETYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="rcti" tvg-logo="https://i.ibb.co/4Sdj1Y5/rcti-fix.png" group-title="Lokal", RCTI HD
-https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",ANTV HD RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/04 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",ANTV RIE
+http://210.210.155.37/qwr9ew/s/s07/index1.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",ANTV 2 RIE
+http://45.126.83.51/qwr9ew/s/s07/01.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TRANS HD RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/15 |User-Agent=Lavf/56.15.102
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SP5XdyY/mnctv-fix.png" group-title="Lokal" tvg-id="MNC TV" tvg-name="MNC TV ", MNC TV HD
-https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TRANS TV RIE
+https://video.detik.com/transtv/smil:transtv-live.smil/playlist.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TRANS 7 HD RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/14 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TRANS 7 RIE
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",NET TV HD RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/03 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",NET TV 1 RIE
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",NET TV 2 RIE
+http://210.210.155.35/session/fc1231f4-4523-11ed-b86e-b82a72d63267/qwr9ew/s/s08/index.m3u8 |User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 tvg-id="sctv.id" tvg-name="sctv" tvg-logo="https://i.ibb.co/dB1v6LR/sctvFIX.png" group-title="Lokal", SCTV HD
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",INEWS TV RIE
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016580 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",NICKELODEON ID RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/38 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",ZOOMOO RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/40 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",HOREE TV RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/43 |User-Agent=Lavf/56.15.102
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ltk0Mnq/antvfix.png" group-title="Lokal" tvg-id="antv" tvg-name="antv", ANTV
-https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",BABY FIRST RIE
+https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",MY KIDZ RIE
+http://rr.dens.tv/h/h191/index.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",CARTOON NETWORK 
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/680 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",SPACETOON
+https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="TransTV" tvg-logo="https://i.ibb.co/j86kRWK/transtvfix.png" group-title="Lokal",Trans TV HD
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e0268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",HITS MOVIES RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/51 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",HITS RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/52 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",ROCK EXTREME RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/60 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",POP MUSIC RIE
+https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8 |User-Agent=Lavf/56.15.102
 
-#EXTINF:0 tvg-id="" tvg-name="Trans7" tvg-logo="https://i.ibb.co/8B8tY5z/800px-Trans-7-2013-svg.png" group-title= "Lokal",Trans 7 HD
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",BANDUNG TV RIE
+http://202.150.153.254/bandungtvWEBSITE.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",SUMEDANG TV RIE
+http://122.248.43.138:1935/ch25/myStream/playlist.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",ELSHINTA TV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/75 |User-Agent=Lavf/56.15.102
 
-#EXTINF:0 tvg-id="tvone" tvg-name="" tvg-logo="https://i.ibb.co/mDJ7S60/tvone.png" group-title="Lokal",TVONE
-https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+#EXTINF:-1 group-title="KOMPILASI",DAAI TV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/05 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",TVRI
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/06 |User-Agent=Lavf/56.15.102
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HN34RCr/gtv.png" group-title="Lokal" tvg-id="GTV" tvg-name="GTV", GTV HD
-https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#EXTINF:-1 group-title="KOMPILASI",RTV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/08 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",METRO TV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/11 |User-Agent=Lavf/56.15.102
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGETYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="nettv" tvg-name="" tvg-logo="https://i.ibb.co/SyMBBNm/net.png" group-title="Lokal",NET HD
-https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TVRI NASIONAL RIE
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",CNBC RIE
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",CNN INDONESIA RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/22 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",CNN RIE
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8 |User-Agent=Lavf/56.15.102
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YQWB94Y/inews.png" group-title="Lokal" tvg-id="iNews" tvg-name="iNews", iNews HD
-https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/useephoto.png" group-title="KOMPILASI", Usee Photo(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tic.png" group-title="KOMPILASI",The Indonesia Channel(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rtv.png" group-title="KOMPILASI",RTV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/magnatv.png" group-title="KOMPILASI",Magna TV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8 |User-Agent=Lavf/56.15.102
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/rtv.png?v=1.0.0.1" group-title="Lokal" tvg-id="rtv" tvg- nama="rtv", RTV
-https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/.png" group-title="KOMPILASI",DIGIONE MAXstream(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/jtv.png" group-title="KOMPILASI", JTV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/ruangterampil.png" group-title="KOMPILASI", Ruang Trampil(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/useeprime.png" group-title="KOMPILASI", UseePrime(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8 |User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/drcIzRz.png" tvg-id="UseePrime" tvg-name="UseePrime", Usee Prime HD
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/jaktv.png" group-title="KOMPILASI",JAK TV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rodjatv.png" group-title="KOMPILASI",RODJA TV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mta.png" group-title="KOMPILASI", MTA TV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KOMPILASI",TV Edukasi(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/index.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KOMPILASI",The Indonesia Channel(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",HBO FAMILY
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26598 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",CINEMA WORLD
+http://210.210.155.35/dr9445/h/h04/01.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",CINEMA ASIA
+http://210.210.155.35/x6bnqe/h/h193/index.m3u8 |User-Agent=Lavf/56.15.102
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/cydHCWx/Metro-TVfxx.png" group-title="Lokal",METRO TV HD
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+#EXTINF:-1 group-title="KOMPILASI",THRILL
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/4 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",CELESTIAL MOVIES
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/5 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",KIX
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",HBO (SD)
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26595 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",HBO HITS
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26596 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",HBO SIGNATURE
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26597 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",GALAXY PREMIUM
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/29603 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",GALAXY
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/29604 |User-Agent=Lavf/56.15.102
 
-#EXTINF:0 tvg-id="TVRI" tvg-name="TVRI" tvg-url="http://www.mncvision.id.E" tvg-logo="https://i.imgur.com/ b5gcteI.png" group-title="Lokal",TVRI HD
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="KOMPILASI",IMC
+https://m3u-editor.com/serve/8f7d7f50-3343-11ed-a319-8174b8937637/638011612
 
+#EXTINF:-1 group-title="KOMPILASI",CITRA DRAMA
+http://tv.zonanime.my.id/vidio/citradrama.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KOMPILASI",SEA Today(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 
+#EXTINF:-1 group-title="KOMPILASI",PRAMBORS TV
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/1157 |User-Agent=Lavf/56.15.102
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGETYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Ochannel.png" group-title="Lokal" , O Saluran HD
-http://tvn.x10.bz/xchannel/master-18.m3u8
+#EXTINF:-1 group-title="KOMPILASI",ASTRO RANIA
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37467 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",Champions 1
+http://tv.zonanime.my.id/vidio/championstv1.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",SPOT TV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/67 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",CITRA DANGDUT
+http://tv.zonanime.my.id/vidio/citrabioskop.m3u8 |User-Agent=Lavf/56.15.102
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGETYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="mncnews" tvg-logo="https://static.mncnow.id/images/channel/7c3f54e6/fd9f.png" group-title="Lokal", MNC NEWS HD
-https://liveanevia.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+#EXTINF:-1 group-title="KOMPILASI",CITRA DRAMA
+http://tv.zonanime.my.id/vidio/citradrama.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",CITRA BIOSKOP
+http://tv.zonanime.my.id/vidio/citradangdut.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",CITRA ENTERTAINMENT
+http://tv.zonanime.my.id/vidio/citraentertainment.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KOMPILASI",Kplus(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",MENTARI TV
+https://live-production.secureswiftcontent.com/exp=1665039623~acl=/hls-p/ingest_8237_*/*~hmac=2e819702474b6bc89fb31acd75ad30054850a731910862a2a1825ecaa8f32c27/hls-p/ingest_8237_720p/index.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",BIOSKOP INDONESIA
+https://cgk1.securepath.site/indoneuetyhbsrt/bxbdrtyhevxh/908?token=QhBYV0dYRg4TXVcAV1wHAVdTBwBQDVFTDgMGCQdTV1IBBlQOAANQDVUaSBAQEEJXVQhvWgIbCVwJDBwTFEUEEGZbVBQOElUFBwFdB0FIEkZdCFURXAgFUwwEAwFXB1JOG0JZUhYKRgcGD1EEQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGA1NXABAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcIBBIdQ1sODFBGX0RrQA1QEwJGAFdTABBJ |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",DUNIA LAIN
+https://cgk1.securepath.site/indoneuetyhbsrt/bxbdrtyhevxh/910?token=QhBYV0dYRg4TWgYGWgBRBVBUBgQDCwAECVBVV1EDUVZaCgcBVVJVVgYaSBAQEEJXVQhvWgIbCVwIBBwTFEUEEGZbVBQOElUFBwFdB0FIEkZdCFURXAgFUwwEAwFZBFFOG0JZUhYKRgcHCVcKQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGClRWEh4WBl9GCE1BHBsOEnglFE1AXEpEU1pDDVtfGl4QFxcSHhYMQ2wUXEARS1FRXAREQ1gbAhIaFl0FTG5bC1wNAVNGXQpeQEQDEVQJFhwTDFkPC01dQmlEWQAWCxpWAVJSEk8= |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",NAT GEO WILD
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/65 |User-Agent=Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="KOMPILASI",ADVENTURE RIE
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",LOVE NATURE RIE
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",TVN MOVIES ID
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/70 |User-Agent=Lavf/56.15.102
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGETYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNxt0HNG/CNN-Indonesia.png" group-title="Lokal", CNN INDONESIA HD
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+#EXTINF:-1 group-title="KOMPILASI",MUSIK KOREA
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/73 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",CCTV LOKASI BROADWAY
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/100 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",MUSIC TOP 
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/101 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",MOJI HD RIE
+https://etslive-2-vidio-com.akamaized.net/exp=1665054007~acl=/hls-p/ingest_206_*/*~hmac=db4b19d301a205ab842cc3a21152545a66fc6b2b6106f453e666c107defc25af/hls-p/ingest_206_720p/index.m3u8 |User-Agent=Lavf/56.15.102
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/kompastv.png?v=1.1.1.1" group-title="Lokal" tvg-id="Kompas TV" tvg -name="Kompas TV", Kompas TV
-https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+#EXTINF:-1 group-title="KOMPILASI",BT SPORT 1 
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/106 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",BT SPORT 2
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/109 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",BEIN SPORT EXTRA RIE
+https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",BT SPORT 3
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/142 |User-Agent=Lavf/56.15.102
 
-#EXTINF:0 tvg-id="BeritaSatuNewsChannel.id" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/bs.png" group-title="Lokal", Berita Satu HD
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 group-title="KOMPILASI",RODJA TV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/114 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",SALAM TV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/115 |User-Agent=Lavf/56.15.102
 
-#EXTINF:0 tvg-id="BeritaSatuNewsChannelworld.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/BeritaSatuWorld.png" group-title= "Lokal",Berita Satu World HD
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:-1 group-title="KOMPILASI",MAKKAH TV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/116 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",IMC 2
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/133 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",DISCOVERY CHANNEL
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/29 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",CLUBBING TV MUSIC
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8 |User-Agent=Lavf/56.15.102
 
-#EXTINF:0 tvg-id="BeritaSatuNewsenglish.id" tvg-name="" tvg-logo="https://i.ibb.co/5F2s9tQ/berita-satu-english.jpg" group-title="Lokal ",Berita Satu Bahasa Inggris HD
-https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+#EXTINF:-1 group-title="KOMPILASI",VEVO R&B 
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/b9c8b190e98b4556ad764a9eeeff4c4b/live.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",K-POP RIE 
+https://srv1.zcast.com.br/kpoptv/kpoptv/index.m3u8 |User-Agent=Lavf/56.15.102
 
-#EXTINF:0 tvg-id="ajwa.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ajwa_TV_logo.png" group-title= "Lokal",Ajwa TV HD
-https://iptv.mwafa.net/vidio/7464/index.m3u8?token=1999
+#EXTINF:-1 group-title="KOMPILASI",MTV HITS RIE
+http://50.7.237.4:8080/MTVHITS/tracks-v1a1/index.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",MTV 80'S 1
+http://50.7.237.4:8080/MTVCLASSIC/tracks-v1a1/index.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",MTV 80'S 2
+http://38.143.137.221:8000/LA48/index.m3u8 |User-Agent=Lavf/56.15.102
 
-
-#EXTINF:0 tvg-id="ntv.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_ntv.png" group-title= "Lokal",Nusantara TV HD
-https://v6.siar.us/nusantaratv/live/playlist.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGETYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1 TVG-id = "Erz.mnctv" TVG-logo = "https://blogger.googleusercontent.com/img/a/AVvXsEg4OOhz_cfc3VB_JcKGCm9AfjhDCGW82iH_Ahvq3IwPTdVREpLmH437koOhWDq0Zi3FQ4xvHnEjSOtHve02BDUEBtbigK26AwL7X7zLhIkkqzuN384pfVlmiRNil8T1AGK_KRSUht3FwyaBV8HdwZX3YjSgmmMLE1pdZltarnbmsewt4Vudu9tbrXFj" kelompok-title = "Lokal", Citra Drama
-http://tvn.x10.bz/channel/master-2.m3u8
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGETYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1 TVG-id = "Erz.mnctv" TVG-logo = "https://blogger.googleusercontent.com/img/a/AVvXsEg9wC0-zm5dGSderTIbf43y12h7goE-767JP-V-aCPXwL6VURGojZDLM2CByLPfGNWiu68H6veytBFCE9lMgUAO4ysanAw1GgcMxkq3-6t21s7Ht5p7D2ZMkTMJdSaoyzsXiJW0RPb3APbH11POeKxy0cFoE3diCrJ-3dg00AWtsufDrNUWjj6vF6fL=s320" kelompok -title="Lokal", Citra Bioskop
-http://tvn.x10.bz/channel/master-1.m3u8
-
-
-
-
-#EXTINF:0 tvg-id="tic.id" tvg-name="" tvg-logo="https://i.ibb.co/4424QQY/the-indonesia-channel.png" group-title="Lokal ",Saluran Indonesia HD
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0 tvg-id="cnbc.id" tvg-name="cnbcid" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" judul grup ="Lokal",CNBC Indonesia HD
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/eroz_brebes.m3u8
-
-
-
-
-#EXTINF:0 tvg-id="jgc.id" tvg-name="jgcid" tvg-logo="https://i.ibb.co/pxzL3WR/jakarta-globe.jpg" group-title="Lokal" ,Jakarta Globe Channel HD
-http://goldenlivektv.com/M*M*K/Channel_Jakartaglobe.m3u8
-
-
-
-
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGETYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="Magna Channel" tvg-name="Magna Channel" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel .png" group-title="Lokal", Magna Channel HD
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
-
-
-
-
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGETYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Lokal" tvg-logo="http://dusktill.masuk.web.id/img/jaktv.png",Jak TV
-https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="MYTV" tvg-name="MYTV" tvg-url="http://www.dens.tv" tvg-logo="https://i.pinimg.com/originals /e6/d6/4c/e6d64c019581df3d7ecd8b7111798e8f.png" group-title="Lokal", TVku HD
-https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="TVRI World" tvg-name="TVRI World" tvg-url="" tvg-logo="https://i.imgur.com/zfElMa0.png" group-title= "Lokal",TVRI Dunia HD
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/daaitv.png" group-title="Lokal",DAAI TV
-http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGETYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Lokal" tvg-logo="http://dusktill.masuk.web.id/img/jtv.png",JTV
-https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Tempo" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Urnxaur4baYw_EnizCQSTh6ryWo=/640x360/filters:quality(70 )/vidio-web-prod-livestreaming/uploads/livestreaming/image/7946/tv-tempo-ed7796.jpg" group-title="Lokal", TV Tempo
-https://teveMobile.us.to/sc/start.m3u8?id=7946
-
-
-
-
-#EXTINF:-1 tvg-id="ELSHINTA.id" tvg-logo="https://i.postimg.cc/50r7jQR7/Elshinta.png" group-title="Lokal", Elshinta
-http://210.210.155.35/session/4c182778-8e4e-11eb-8016-b82a72d63267/qwr9ew/s/s10/index10.m3u8
+#EXTINF:-1 group-title="KOMPILASI",SPIRIT TV MUSIC 
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v3a1/mono.m3u8 |User-Agent=Lavf/56.15.102

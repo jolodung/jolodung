@@ -1,11 +1,10 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
-
-#EXTINF:-1 group-title="Playlist Channel Premium Terbaru", AMBIL DI http://bit.ly/3G4TaDc
-https://dl.dropboxusercontent.com/s/bhpfobyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
-
 <!##########################################################################
 <!######################## Nasional ############################
 <!##########################################################################
+
+#EXTINF:-1 tvg-id="SCTV.id" group-title="Nasional" tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="Lokal",SCTV
+http://iptvid.my.id/hmm/sctv.m3u8
+
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

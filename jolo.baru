@@ -5,6 +5,10 @@
 http://13.229.80.186:5000/play/Bein_Sport-Premium1/index.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="LOKAl", TVR 1 mbd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://webudi.openhd.lol/cdn/8/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/maxsport.php?id=tvr1&e=.m3u8
+
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="ID: SCTV" tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="LOKAL",Sctv mbd2
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 

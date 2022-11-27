@@ -1,13 +1,13 @@
 
 ##################################piala dunia######################3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg" group-title="PIALA DUNIA 2022",VTV6_vietnam
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVtdYTv/vtv6.png" group-title="PIALA DUNIA 2022",VTV6_vietnam
 http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/SCTV_Logo.svg" group-title="PIALA DUNIA 2022",SCTV_digital
 https://ezstat.ru/SCTV?shareext.ts
 
-#EXTINF:-1 tvg-logo="https://imgur.com/jB0ihjK" group-title="PIALA DUNIA 2022",MOJI_digital
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8NxJyvL/Moji-blue-svg.png" group-title="PIALA DUNIA 2022",MOJI_digital
 https://ezstat.ru/MOJI?shareext.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="PIALA DUNIA 2022", Bein Sports Premium 1

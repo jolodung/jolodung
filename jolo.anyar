@@ -7,9 +7,9 @@ http://23.237.10.66:16402
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",MBC_korea
 http://123.254.72.24:1935/tvlive/livestream2/chunklist_w431937155.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",VTV5_vietnam
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1920px-VTV5_logo_2013_final.svg.png" group-title="SHAREEXT@⚽WORLDCUP2022",VTV5_vietnam
 http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",VTV6_vietnam
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1920px-VTV6_logo_2013_final.svg.png" group-title="SHAREEXT@⚽WORLDCUP2022",VTV6_vietnam
 http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",ASTRO.W.CUP
 https://02ip.ru/astro?shareext.ts
@@ -35,7 +35,7 @@ http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218731
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218732
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",WC|FS 1
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2406.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",WC|Sport 18
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png" group-title="SHAREEXT@⚽WORLDCUP2022",WC|Sport 18
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2405.ts
 #EXTINF:-1 tvg-id="" tvg-name="TF1 HD WORLD  CUP 2022" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMNUwfWasjov27Zk5RDv22vLZPkfXz3dEJmpXEPE7e0p_ZF4BH80TBTbJVov2FnIwSNw&usqp=CAU"group-title="SHAREEXT@⚽WORLDCUP2022",TF1 HD WORLDCUP 2022
 http://11121314.org:8000/RQH29rxr8F/fTjzEdp8EF/451153

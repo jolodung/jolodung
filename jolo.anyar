@@ -148,17 +148,26 @@ https://vcdn2.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_9
 #EXTINF:-1   tvg-logo="https://www.pngfind.com/pngs/m/568-5681026_inews-tv-logo-inews-tv-logo-png-transparent.png" group-title="LOKAL",INEWS+_vcdn
 https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
 
+#EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20180312/gyw/kisspng-antv-logo-television-coreldraw-trans7-antv-vector-logo-design-5aa6d561f2e374.8060139415208830419949.jpg"group-title="ShareExt@USEETV",AN TV
+http://iptvid.my.id/hmm/antv.m3u8
+
 #EXTINF:-1  tvg-logo="https://img2.pngdownload.id/20180312/gyw/kisspng-antv-logo-television-coreldraw-trans7-antv-vector-logo-design-5aa6d561f2e374.8060139415208830419949.jpg" group-title="LOKAL",ANTV
 http://rr2.dens.tv/s/s07/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-CFMQmEiVUJM/YcmSGJ-8eQI/AAAAAAAAXYQ/K3LDmBNLd-AwqocuUONR-WSnWR0Q7jnjACNcBGAsYHQ/s0-rw/NET-TV-Logo-png.vector69.com.png" group-title="LOKAL",NETTV
 http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
 
+EXTINF:-1  tvg-logo="https://img2.pngdownload.id/20180605/vvz/kisspng-tv-one-streaming-television-tvone-streaming-media-tv-channel-5b16be028802e6.3440336115282170905571.jpg" group-title="SHAREEXT@URFAN.web.id_IPTV",TVONE
+http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20180605/vvz/kisspng-tv-one-streaming-television-tvone-streaming-media-tv-channel-5b16be028802e6.3440336115282170905571.jpg"group-title="LOKAL",TV ONE
 http://iptvid.my.id/hmm/tvone.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20180717/hje/kisspng-metrotv-indonesia-television-channel-news-metro-city-5b4de3eb174850.2943747815318312750954.jpg"group-title="LOKAL",METROTV
 http://iptvid.my.id/hmm/metrotv.m3u8
+
+#EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/310/692/png-clipart-kompas-tv-television-indonesia-news-kompas-television-angle-thumbnail.png" group-title="SHAREEXT@URFAN.web.id_IPTV",KOMPASTV
+http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
 
 #EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/310/692/png-clipart-kompas-tv-television-indonesia-news-kompas-television-angle-thumbnail.png" group-title="LOKAL",Kompas TV
 http://rr2.dens.tv/s/s104/index.m3u8
@@ -168,6 +177,9 @@ http://tvn.x10.mx/1/master-1.m3u8?dl=1
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/319/580/png-clipart-indosiar-television-channel-logo-sctv-ramadhan-logo-television-company-thumbnail.png"group-title="LOKAL",INDOSIAR
 http://iptvid.my.id/hmm/indoseear.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/9/1/12/imgbin-surabaya-television-logo-jtv-kediri-jawa-pos-tv-instagram-JqMBAwUC2C5WpXhwaKu2ZXx20.jpg"group-title="ShareExt@USEETV",JTV
+http://iptvid.my.id/hmm/jtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/9/1/12/imgbin-surabaya-television-logo-jtv-kediri-jawa-pos-tv-instagram-JqMBAwUC2C5WpXhwaKu2ZXx20.jpg"group-title="LOKAL",JTV
 http://iptvid.my.id/hmm/jtv.m3u8
@@ -701,8 +713,10 @@ http://iptvid.my.id/hmm/tvn.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/914/185/png-clipart-chanel-no-5-fashion-logo-chanel-logo-text-chanel-thumbnail.pngg"group-title="Movies",TVN MOVIE
 http://iptvid.my.id/hmm/tvnmovie.m3u8
 
- #EXTINF:-1 tvg-id="KPlus.sg" tvg-name="K+" tvg-logo="https://i.ibb.co/xj5SPZj/KPLUS.png" group-title="Movies",K+ 
- https://malay.rmvberantakan.com/dash-wv/linear/9983/default_primary.mpd
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="SHAREEXT@URFAN.web.id_IPTV",TVN_ASIA
+http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="SHAREEXT@URFAN.web.id_IPTV",TVN_MOVIES
+http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
  
 #EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png"group-title="Movies",IMC
 http://iptvid.my.id/hmm/imc.m3u8

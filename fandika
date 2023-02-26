@@ -11,9 +11,10 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8|User-Agent=Lavf/56.15.102
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="INDONESIA",RCTI
-https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="INDONESI",RCTI (720p)
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8?checkedby:iptvcat.net
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png" group-title="INDONESIA",MNC TV

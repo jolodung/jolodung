@@ -7,11 +7,9 @@ http://210.210.155.37/qwr9ew/s/s07/index.m3u8|User-Agent=Lavf/56.15.102
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 http://210.210.155.35/qwr9ew/s/s04/index.m3u8|User-Agent=Lavf/56.15.102
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/SCTV.id.png" group-title="INDONESIA",SCTV
-http://mpwtv.my.id/vidioye/204-sctv.m3u8
-http://210.210.155.37/qwr9ew/s/s03/index.m3u8|User-Agent=Lavf/56.15.102
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
+#EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="INDONESIA",SCTV
+##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/204-sctv
+http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/02.m3u8
 =====================================>MNC GRUP<======================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

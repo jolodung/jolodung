@@ -1,10 +1,18 @@
 #EXTM3U x-tvg-url="http://epg.nng.cloudns.us" url-tvg="http://epg.nng.cloudns.us" refresh="3600"
 
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI_🇮🇩••🇮🇩
+https://maper.info/RCTI_shareext_ts
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NASIONAL",RCTI_play
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI_pro••🇮🇩
+http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=683099&extension=ts&shareext@RCTI
+
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI_••🇮🇩
+https://m3u-editor.com/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/917071840.m3u8|User-Agent=Dalvik/2.1.0
+
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI_play••🇮🇩
 http://198.16.100.90:8278/Rcti/playlist.m3u8?tid=MC2C8104265481042654&ct=19249&tsum=a03f74405124dc54a0e467a91f2afe8d
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NASIONAL",RCTI°°
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI••🇮🇩
 http://shareext@connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683099&extension=ts&play_rctiHD
 
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI••🇮🇩

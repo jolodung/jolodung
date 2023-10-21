@@ -1,29 +1,24 @@
 #EXTM3U x-tvg-url="http://epg.nng.cloudns.us" url-tvg="http://epg.nng.cloudns.us" refresh="3600"
 
 
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157591
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=223255,AVERAGE-BANDWIDTH=202959,CODECS="avc1.4d400c,mp4a.40.2",RESOLUTION=256x144,FRAME-RATE=25.000
+https://rcti-linier.rctiplus.id/hdntl=exp=1697905301~acl=%2F*~data=hdntl~hmac=d3f588da6dfa5454bff69a197439a60812293020c17a42efd139fe753eccb5fe/rcti-sdi-avc1_100000=11-mp4a_96000=1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=351515,AVERAGE-BANDWIDTH=319559,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=426x240,FRAME-RATE=25.000
+https://rcti-linier.rctiplus.id/hdntl=exp=1697905301~acl=%2F*~data=hdntl~hmac=d3f588da6dfa5454bff69a197439a60812293020c17a42efd139fe753eccb5fe/rcti-sdi-avc1_210000=10-mp4a_96000=1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=631356,AVERAGE-BANDWIDTH=573959,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000
+https://rcti-linier.rctiplus.id/hdntl=exp=1697905301~acl=%2F*~data=hdntl~hmac=d3f588da6dfa5454bff69a197439a60812293020c17a42efd139fe753eccb5fe/rcti-sdi-avc1_450000=8-mp4a_96000=1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=806255,AVERAGE-BANDWIDTH=732959,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000
+https://rcti-linier.rctiplus.id/hdntl=exp=1697905301~acl=%2F*~data=hdntl~hmac=d3f588da6dfa5454bff69a197439a60812293020c17a42efd139fe753eccb5fe/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1039455,AVERAGE-BANDWIDTH=944959,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
+https://rcti-linier.rctiplus.id/hdntl=exp=1697905301~acl=%2F*~data=hdntl~hmac=d3f588da6dfa5454bff69a197439a60812293020c17a42efd139fe753eccb5fe/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI *
-http://apel-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI HD
-http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3365.m3u8
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI HD*
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683099&extension=m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/200px-RCTI_2015.svg.png"  group-title="NASIONAL" , RCTI
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-https://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499968=3-mp4a_98800=2.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NASIONAL", RCTI
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/157591
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNCqnZL9/RCTI.png" group-title="NASIONAL",RCTI
-https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

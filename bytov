@@ -71,12 +71,10 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1z6SbJSv/TRANS-7.png" tvg-url="" group-title=" NASIONAL",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="NASIONAL", NET S1
-http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/80292
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="NASIONAL", NET S2
-http://kuchini.site:8080/F30140/f3de2280/80292
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="NASIONAL", NET S3
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/80292
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="" group-title="NASIONAL" tvg-logo="https://i.imgur.com/RPT8O12.png",NET.
+https://mangga-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm

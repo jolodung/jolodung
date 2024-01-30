@@ -48,7 +48,7 @@ https://maper.info/INEWS_shareext
 http://rr.dens.tv/h/h40/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDYb1V6P/KOMPAS-TV.png" group-title="NASIONAL",Kompas.TV(MPD(telkom)
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+https://s.id/kompastv_shareext-m3u8|User-Agent=Shareext/5.0
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5yffBvZn/METRO-TV.png" group-title="NASIONAL",Metro TV
 http://rr.dens.tv/h/h12/index.m3u8
@@ -71,22 +71,22 @@ http://rr3.dens.tv/h/h06/index.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/mkVB8k4R/MNC-TV.png" group-title="NASIONAL",MNCTV_pro
-http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=683098&extension=ts&shareext@MNCTV
+http://iptvtree.net:8080/F14995/a84c0963/165054
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLmx4PMD/GLOBAL-TV.png" group-title="NASIONAL",GTV_🇮🇩
 https://maper.info/GTV_shareext_ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="https://i.postimg.cc/qvN4xp5V/SCTV.png" tvg-id="" tvg-name"SCTV" group-title="NASIONAL",SCTV
-http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/162141.ts
+http://iptvtree.net:8080/F14995/a84c0963/162141
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FH6FMYLH/INDOSIAR.png" group-title="NASIONAL",Indosiar_ez
-https://ezstat.ru/Indosiar_shareext-ts
+https://s.id/indosiar_shareext-m3u8|User-Agent=Shareext/5.0
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/617px-Indosiar_2015.svg.png",Indosiar
-http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
+http://iptvtree.net:8080/F14995/a84c0963/162138
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/617px-Indosiar_2015.svg.png",Indosiar mp 
 #http://mpwtv.my.id/vidioye/205-indosiar.m3u8

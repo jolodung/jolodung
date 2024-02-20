@@ -1,28 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.nng.cloudns.us" url-tvg="http://epg.nng.cloudns.us" refresh="3600"
 
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI_🇮🇩••🇮🇩
-https://maper.info/RCTI_shareext_ts
-
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI_pro••🇮🇩
 http://iptvtree.net:8080/F14995/a84c0963/157591
-
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI_••🇮🇩
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/60479
-
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI_play••🇮🇩
-http://198.16.100.90:8278/Rcti/playlist.m3u8?tid=MC2C8104265481042654&ct=19249&tsum=a03f74405124dc54a0e467a91f2afe8d
-
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI••🇮🇩
-http://shareext@connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683099&extension=ts&play_rctiHD
-
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI••🇮🇩
-http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499968=3.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI HD*
-http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683099&extension=m3u8
-
-
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -42,13 +21,13 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/zfRD8qCS/iNEWS.png" group-title="NASIONAL",INEWS_🇮🇩
-https://maper.info/INEWS_shareext
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/60291
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/k4vmgGB8/TVONE.png" group-title=" NASIONAL ",tvOne
 http://rr.dens.tv/h/h40/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDYb1V6P/KOMPAS-TV.png" group-title="NASIONAL",Kompas.TV(MPD(telkom)
-https://s.id/kompastv_shareext-m3u8|User-Agent=Shareext/5.0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDYb1V6P/KOMPAS-TV.png" group-title="NASIONAL",Kompas.TV
+https://kusnadipepenk.github.io/campeign/kompas.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5yffBvZn/METRO-TV.png" group-title="NASIONAL",Metro TV
 http://rr.dens.tv/h/h12/index.m3u8
@@ -71,28 +50,19 @@ http://rr3.dens.tv/h/h06/index.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/mkVB8k4R/MNC-TV.png" group-title="NASIONAL",MNCTV_pro
-http://iptvtree.net:8080/F14995/a84c0963/165054
+https://kusnadipepenk.github.io/campeign/mnc.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLmx4PMD/GLOBAL-TV.png" group-title="NASIONAL",GTV_🇮🇩
-https://maper.info/GTV_shareext_ts
+https://kusnadipepenk.github.io/campeign/global.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="https://i.postimg.cc/qvN4xp5V/SCTV.png" tvg-id="" tvg-name"SCTV" group-title="NASIONAL",SCTV
-http://iptvtree.net:8080/F14995/a84c0963/162141
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/FH6FMYLH/INDOSIAR.png" group-title="NASIONAL",Indosiar_ez
-https://s.id/indosiar_shareext-m3u8|User-Agent=Shareext/5.0
+
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/617px-Indosiar_2015.svg.png",Indosiar
 http://iptvtree.net:8080/F14995/a84c0963/162138
-
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/617px-Indosiar_2015.svg.png",Indosiar mp 
-#http://mpwtv.my.id/vidioye/205-indosiar.m3u8
-
-#EXTINF:-1 tvg-logo="https://dev.firstmedia.com:8443/files/packages/tvlokal/indosiar.jpg" group-title="NASIONAL",Indosiar
-http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/pVBW2GF7/MOJI.png" group-title="NASIONAL",MOJI
 http://rr3.dens.tv/s/s41/index.m3u8
@@ -130,7 +100,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4
 https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w423702525.m3u8
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_jtv_big1.png?v=2.0.0.13" group-title="LOKAL", JTV
-http://edge.linknetott.swiftserve.com/channelgroup4/cg405production/ch17/index.m3u8
+https://s.id/jtv_shareext-ts
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_big1.png?v=2.0.0.13" group-title="LOKAL, JTV (MPD)(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd

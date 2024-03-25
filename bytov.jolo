@@ -1,13 +1,9 @@
 #EXTM3U x-tvg-url="http://epg.nng.cloudns.us" url-tvg="http://epg.nng.cloudns.us" refresh="3600"
 
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI_pro••🇮🇩
-http://iptvtree.net:8080/F14995/a84c0963/157591
 
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI_••🇮🇩
-https://maper.info/RCTI_shareext_ts
+#EXTINF:-1 tvg-id="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png"  group-title="NASIONAL",RCTI
+http://iptvtree.net:8080/everton/7def2e7e/157591
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI✓
-https://liveaneviadev.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -32,14 +28,12 @@ https://kusnadipepenk.github.io/campeign/inews.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/k4vmgGB8/TVONE.png" group-title=" NASIONAL ",tvOne
 http://rr.dens.tv/h/h40/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDYb1V6P/KOMPAS-TV.png" group-title="NASIONAL",Kompastv_kus
-https://kusnadipepenk.github.io/campeign/kompas.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: Kompas TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="NASIONAL",[ID]Kompas~TV
+http://iptvtree.net:8080/everton/7def2e7e/165060
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t4f9HYy/kompas-tv.png" group-title="NASIONAL", KOMPASTV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
-https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4f9HYy/kompas-tv.png" group-title="NASIONAL", Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5yffBvZn/METRO-TV.png" group-title="NASIONAL",Metro TV
 http://rr.dens.tv/h/h12/index.m3u8

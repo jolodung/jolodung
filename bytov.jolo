@@ -3,6 +3,12 @@
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI_pro••🇮🇩
 http://iptvtree.net:8080/F14995/a84c0963/157591
 
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI_••🇮🇩
+https://maper.info/RCTI_shareext_ts
+
+EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",ID:RCTI HD
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/60479
+
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -26,8 +32,14 @@ https://kusnadipepenk.github.io/campeign/inews.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/k4vmgGB8/TVONE.png" group-title=" NASIONAL ",tvOne
 http://rr.dens.tv/h/h40/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDYb1V6P/KOMPAS-TV.png" group-title="NASIONAL",Kompastv_kus
+https://kusnadipepenk.github.io/campeign/kompas.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDYb1V6P/KOMPAS-TV.png" group-title="NASIONAL",Kompas.TV
 https://kusnadipepenk.github.io/campeign/kompas.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/mDYb1V6P/KOMPAS-TV.png" group-title="NASIONAL",KOMPAS•TV••🇮🇩
+http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5yffBvZn/METRO-TV.png" group-title="NASIONAL",Metro TV
 http://rr.dens.tv/h/h12/index.m3u8

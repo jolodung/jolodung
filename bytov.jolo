@@ -24,7 +24,11 @@ https://s.id/mojiHD_shareext-xs
 
 #EXTINF:-1 group-title="National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png", MOJI
 https://raw.githubusercontent.com/Tibawa/basulapa/main/ABEETV/playlist/moji.m3u8
- 
+
+
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/335ahoz5yt7zoKfevmwMNEY5E4swytRsHNdpj4ESmCemstPS1_zQE7xpE61gFNDRxP5Gm8wiaJA=s900-c-k-c0x00ffffff-no-rj" group-title="National", MOJI 
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi

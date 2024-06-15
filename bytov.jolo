@@ -21,6 +21,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="National", MOJI~HD~§
 https://s.id/mojiHD_shareext-xs
+
+#EXTINF:-1 group-title="National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png", MOJI
+https://raw.githubusercontent.com/Tibawa/basulapa/main/ABEETV/playlist/moji.m3u8
+ 
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="ANTV - [Channel 115].id" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV

@@ -1,0 +1,95 @@
+#include <NimBLEDevice.h>
+#include <Adafruit_GFX.h>
+#include <Adafruit_ILI9341.h>
+
+// Pin TFT (ubah sesuai wiring)
+#define TFT_CS   5
+#define TFT_RST  4
+#define TFT_DC   2
+#define TFT_MOSI 23
+#define TFT_SCK  18
+#define TFT_MISO 19
+
+Adafruit_ILI9341 tft = Adafruit_ILI9341(TFT_CS, TFT_DC, TFT_RST);
+
+// BLE JK BMS
+const char* JK_BMS_NAME = "JK_BMS";
+static BLEUUID serviceUUID("0000ff00-0000-1000-8000-00805f9b34fb");
+static BLEUUID readCharUUID("0000ff01-0000-1000-8000-00805f9b34fb");
+
+NimBLEClient* pClient;
+NimBLEAdvertisedDevice* advDevice;
+
+// Callback BLE
+class AdvertisedDeviceCallbacks : public NimBLEAdvertisedDeviceCallbacks {
+  void onResult(NimBLEAdvertisedDevice* advertisedDevice) {
+    if (advertisedDevice->getName() == JK_BMS_NAME) {
+      advDevice = advertisedDevice;
+      NimBLEDevice::getScan()->stop();
+    }
+  }
+};
+
+void connectToBMS() {
+  if (!advDevice) return;
+
+  pClient = NimBLEDevice::createClient();
+  if (!pClient->connect(advDevice)) return;
+
+  NimBLERemoteService* pService = pClient->getService(serviceUUID);
+  if (!pService) return;
+
+  NimBLERemoteCharacteristic* pReadChar = pService->getCharacteristic(readCharUUID);
+  if (pReadChar && pReadChar->canRead()) {
+    std::string value = pReadChar->readValue();
+    Serial.println(value.c_str());
+
+    // Contoh parsing data (harus disesuaikan dengan format data JK BMS)
+    int voltage = (uint8_t)value[0] * 0.1;  // Tegangan dalam Volt
+    int current = (uint8_t)value[1] * 0.1;  // Arus dalam Ampere
+    int soc = (uint8_t)value[2];            // SOC dalam %
+
+    displayData(voltage, current, soc);
+  }
+}
+
+// Fungsi untuk menampilkan data ke TFT
+void displayData(float voltage, float current, int soc) {
+  tft.fillScreen(ILI9341_BLACK);
+
+  tft.setCursor(10, 20);
+  tft.setTextColor(ILI9341_WHITE);
+  tft.setTextSize(2);
+  tft.print("Voltage: ");
+  tft.print(voltage);
+  tft.println(" V");
+
+  tft.setCursor(10, 50);
+  tft.print("Current: ");
+  tft.print(current);
+  tft.println(" A");
+
+  tft.setCursor(10, 80);
+  tft.print("SOC: ");
+  tft.print(soc);
+  tft.println(" %");
+}
+
+void setup() {
+  Serial.begin(115200);
+  tft.begin();
+  tft.setRotation(3);
+  tft.fillScreen(ILI9341_BLACK);
+
+  NimBLEDevice::init("ESP32_BMS");
+  NimBLEScan* pScan = NimBLEDevice::getScan();
+  pScan->setAdvertisedDeviceCallbacks(new AdvertisedDeviceCallbacks());
+  pScan->start(5);
+}
+
+void loop() {
+  if (advDevice && !pClient->isConnected()) {
+    connectToBMS();
+  }
+  delay(5000);
+}
